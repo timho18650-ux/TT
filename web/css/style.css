@@ -162,10 +162,25 @@ body {
 }
 
 /* Tag cloud */
+.tag-group-title {
+  margin: 1rem 0 0.5rem 0;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+.tag-group-title:first-of-type {
+  margin-top: 0.5rem;
+}
+.tag-group-positive { color: #0a6b3c; }
+.tag-group-neutral { color: var(--text-muted); }
+.tag-group-negative { color: #a82828; }
 .tag-cloud {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
+}
+.tag-cloud .tag-none {
+  font-size: 0.875rem;
+  color: var(--text-muted);
 }
 .tag {
   min-height: 36px;

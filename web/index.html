@@ -33,7 +33,16 @@
 
     <section class="section">
       <h2 class="section-title">依 TAG 篩選</h2>
-      <div id="tag-cloud" class="tag-cloud" aria-label="常用標籤">
+      <h3 class="tag-group-title tag-group-positive">正面</h3>
+      <div id="tag-positive" class="tag-cloud" aria-label="正面標籤">
+        <span class="loading">載入中…</span>
+      </div>
+      <h3 class="tag-group-title tag-group-neutral">中性</h3>
+      <div id="tag-neutral" class="tag-cloud" aria-label="中性標籤">
+        <span class="loading">載入中…</span>
+      </div>
+      <h3 class="tag-group-title tag-group-negative">反面</h3>
+      <div id="tag-negative" class="tag-cloud" aria-label="反面標籤">
         <span class="loading">載入中…</span>
       </div>
     </section>
@@ -47,7 +56,20 @@
   <script>
     (function () {
       var categoryEl = document.getElementById("category-list");
-      var tagEl = document.getElementById("tag-cloud");
+      var tagPositiveEl = document.getElementById("tag-positive");
+      var tagNeutralEl = document.getElementById("tag-neutral");
+      var tagNegativeEl = document.getElementById("tag-negative");
+
+      function renderTagCloud(tags) {
+        return tags.map(function (tag) {
+          return '<a href="list.html?tag=' + encodeURIComponent(tag) + '" class="tag">' + escapeHtml(tag) + '</a>';
+        }).join("");
+      }
+      function escapeHtml(s) {
+        var div = document.createElement("div");
+        div.textContent = s;
+        return div.innerHTML;
+      }
 
       window.App.loadPlaces().then(function (places) {
         var types = window.App.getTypes(places);
@@ -56,20 +78,14 @@
           return '<a href="' + href + '" class="category-btn">' + escapeHtml(t) + '</a>';
         }).join("");
 
-        var tags = window.App.getAllTags(places).slice(0, 24);
-        tagEl.innerHTML = tags.map(function (tag) {
-          return '<a href="list.html?tag=' + encodeURIComponent(tag) + '" class="tag">' + escapeHtml(tag) + '</a>';
-        }).join("");
+        var bySentiment = window.App.getTagsBySentiment(places);
+        tagPositiveEl.innerHTML = bySentiment.positive.length ? renderTagCloud(bySentiment.positive) : "<span class=\"tag-none\">無</span>";
+        tagNeutralEl.innerHTML = bySentiment.neutral.length ? renderTagCloud(bySentiment.neutral) : "<span class=\"tag-none\">無</span>";
+        tagNegativeEl.innerHTML = bySentiment.negative.length ? renderTagCloud(bySentiment.negative) : "<span class=\"tag-none\">無</span>";
       }).catch(function () {
-        categoryEl.innerHTML = '<span class="error">無法載入資料</span>';
-        tagEl.innerHTML = "";
+        categoryEl.innerHTML = "<span class=\"error\">無法載入資料</span>";
+        tagPositiveEl.innerHTML = tagNeutralEl.innerHTML = tagNegativeEl.innerHTML = "";
       });
-
-      function escapeHtml(s) {
-        var div = document.createElement("div");
-        div.textContent = s;
-        return div.innerHTML;
-      }
     })();
   </script>
 </body>
