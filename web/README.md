@@ -23,6 +23,15 @@ python -m http.server 8080
 
 再於手機或電腦瀏覽器開啟：<http://localhost:8080>
 
+## 部署到 Vercel（可直接使用）
+
+1. 登入 [Vercel](https://vercel.com)，選擇 **Add New → Project**，匯入 GitHub 專案 `timho18650-ux/TT`。
+2. **重要**：在設定裡將 **Root Directory** 設為 `web`（因為網站檔案在 `web` 資料夾內）。
+3. **Build Command** 留空即可（純靜態，無需建置）。
+4. 點 **Deploy**，完成後會得到一個 `*.vercel.app` 網址。
+
+之後若在 GitHub 更新程式或重新執行 `export_xlsx_to_json.py` 並 push，Vercel 會自動重新部署。
+
 ## 檔案說明
 
 - `index.html` — 首頁（分類、TAG、搜尋）
