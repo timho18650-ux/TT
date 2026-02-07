@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>曼谷 4 天成人行程（基礎圖層）</name>
+    <description>酒店、餐廳、景點、日按、Soapy、紅燈區、他人推薦。路線 A/B/C 在 曼谷成人行程_地圖_2_三條路線.kml。</description>
+    <Folder>
+      <name>1_酒店與餐廳</name>
+      <Placemark>
+        <name>The Westin Grande Sukhumvit</name>
+        <description><![CDATA[入住 2/26-3/1，Deluxe Room 含早
+<br/><br/><b>介紹連結：</b>
+<br/><a href="https://www.booking.com/hotel/th/the-westin-grande-sukhumvit-bangkok.zh-tw.html">繁中－Booking</a> |
+<a href="https://www.booking.com/hotel/th/the-westin-grande-sukhumvit-bangkok.zh-cn.html">簡中－Booking</a> |
+<a href="https://www.tripadvisor.com/Hotel_Review-g293916-d304495-The_Westin_Grande_Sukhumvit_Bangkok-Bangkok.html">EN－TripAdvisor</a>]]></description>
+        <Point>
+          <coordinates>100.5601,13.7388,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Copper Beyond Buffet</name>
+        <description><![CDATA[2/26 19:30 已預訂｜<a href="https://www.google.com/maps/search/Copper+Beyond+Buffet+Gaysorn+Amarin+Bangkok">Google Maps</a>]]></description>
+        <Point><coordinates>100.5405,13.7465,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Chim by Siam Wisdom</name>
+        <description><![CDATA[2/27 12:30 已預訂｜<a href="https://www.google.com/maps/search/Chim+by+Siam+Wisdom+Bangkok">Google Maps</a>]]></description>
+        <Point><coordinates>100.5100,13.7750,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2_日按與Soapy</name>
+      <Placemark>
+        <name>Soi 24 日按集中區</name>
+        <description><![CDATA[Addict、Doki Doki、Momo、Paradise
+<br/><br/><b>介紹連結：</b>
+<br/><a href="https://www.fuzokuu.com/?p=1502">繁中－風俗攻略</a> |
+<a href="https://sukhumvit-psycho.com/2012/06/addict-massage-bangkok-sukhumvit-soi-24-bangkok/">EN－Addict 介紹</a>]]></description>
+        <Point>
+          <coordinates>100.5690,13.7280,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Soi 26 日按集中區</name>
+        <description><![CDATA[102、Bamboo、Angel、Pretty
+<br/><br/><b>介紹連結：</b>
+<br/><a href="https://www.fuzokuu.com">繁中－風俗攻略</a> |
+<a href="https://rockitreports.com/review-bamboo-massage-bangkok-thailand/">EN－Bamboo 介紹</a>]]></description>
+        <Point>
+          <coordinates>100.5720,13.7250,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eden Club (Soi 7/1)</name>
+        <description><![CDATA[幻想服務、雙飛聞名；12:30-24:00，周一休息
+<br/><br/><b>介紹連結：</b>
+<br/><a href="https://bangkok2night.com/exoticbars/eden_club.shtml">繁中／EN－Eden 攻略</a> |
+<a href="https://www.tripadvisor.com/Attraction_Review-g293916-d24970799-Reviews-Eden_Club_Bangkok-Bangkok.html">EN－TripAdvisor</a>]]></description>
+        <Point>
+          <coordinates>100.5535,13.7420,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Emmanuelle (Soi 2)</name>
+        <description><![CDATA[老牌，約 4,500–6,000 銖，外國人加 500
+<br/><br/><b>介紹連結：</b>
+<br/><a href="https://raknoi.com">繁中－泰浴攻略</a> |
+<a href="https://ljdny.net/archives/601">簡中－Emmanuelle 介紹</a> |
+<a href="https://thailand.hammer104.com/">EN－Hammer104</a>]]></description>
+        <Point>
+          <coordinates>100.5480,13.7360,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Poseidon (Ratchadaphisek)</name>
+        <description><![CDATA[分級選妃，約 3,500–8,000 銖，Sutthisan MRT
+<br/><br/><b>介紹連結：</b>
+<br/><a href="https://raknoi.com/5229/">繁中－Poseidon 波賽頓介紹</a> |
+<a href="https://xthai.com/poseidonentertainmentcomplex%E6%9B%BC%E8%B0%B7ratchada%E7%9A%84%E4%BC%A0%E5%A5%87%E6%B3%B0%E6%B5%B4/">簡中－Poseidon 傳奇泰浴</a> |
+<a href="https://thailand.hammer104.com/detail/1614">EN－Poseidon 詳情</a>]]></description>
+        <Point>
+          <coordinates>100.5715,13.7730,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Lord (Ratchadaphisek)</name>
+        <description><![CDATA[中高檔，約 4,500–10,000 銖，出發前建議確認營業
+<br/><br/><b>介紹連結：</b>
+<br/><a href="https://raknoi.com">繁中－泰浴攻略</a> |
+<a href="https://www.spadp.com/news/7942.html">簡中－曼谷泰浴指南</a> |
+<a href="https://rockitreports.com/review-the-lord-bangkok-thailand/">EN－The Lord 介紹</a>]]></description>
+        <Point>
+          <coordinates>100.5720,13.7740,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>4_紅燈區</name>
+      <Placemark>
+        <name>Soi Cowboy</name>
+        <description><![CDATA[短巷、觀光氣氛較重，約 20 間 Go Go Bar
+<br/><br/><b>介紹連結：</b>
+<br/><a href="https://www.fuzokuu.com/18909">繁中－牛仔巷攻略</a> |
+<a href="https://partybangkok.com/zh/%E6%9C%80%E4%BD%B3%E7%BA%A2%E7%81%AF%E5%8C%BA/">簡中－紅燈區指南</a> |
+<a href="https://www.cktravels.com/nana-plaza-bangkok-thailand-guide/">EN－Bangkok 紅燈區</a>]]></description>
+        <Point>
+          <coordinates>100.5610,13.7325,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nana Plaza</name>
+        <description><![CDATA[三層樓複合式 Gogo Bar，高能量氛圍
+<br/><br/><b>介紹連結：</b>
+<br/><a href="https://www.fuzokuu.com">繁中－風俗攻略</a> |
+<a href="https://partybangkok.com/zh/">簡中－曼谷夜生活</a> |
+<a href="https://www.cktravels.com/nana-plaza-bangkok-thailand-guide/">EN－Nana Plaza 指南</a>]]></description>
+        <Point>
+          <coordinates>100.5532,13.7410,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Patpong</name>
+        <description><![CDATA[夜市＋酒吧並存，謹防宰客與盜版攤
+<br/><br/><b>介紹連結：</b>
+<br/><a href="https://www.fuzokuu.com">繁中－風俗攻略</a> |
+<a href="https://partybangkok.com/zh/">簡中－紅燈區指南</a> |
+<a href="https://gogohugs.com/thailand-gogo-bars/">EN－Gogo Bars 攻略</a>]]></description>
+        <Point>
+          <coordinates>100.5315,13.7285,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>3_景點</name>
+      <Placemark>
+        <name>大皇宮 Grand Palace</name>
+        <description><![CDATA[門票 500 銖，08:30–15:30
+<br/><br/><b>介紹連結：</b>
+<br/><a href="https://zh.wikipedia.org/wiki/%E6%9B%BC%E8%B0%B7%E5%A4%A7%E7%8E%8B%E5%AE%AE">繁中－維基百科</a> |
+<a href="https://www.royalgrandpalace.th/cn/visit/practical-information">簡中－官網</a> |
+<a href="https://www.royalgrandpalace.th/en/visit/practical-information">EN－官網</a>]]></description>
+        <Point>
+          <coordinates>100.4915,13.7500,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>臥佛寺 Wat Pho</name>
+        <description><![CDATA[門票 300 銖，08:00–19:30，距大皇宮約 700m
+<br/><br/><b>介紹連結：</b>
+<br/><a href="https://zh.wikipedia.org/wiki/%E8%87%A5%E4%BD%9B%E5%AF%BA">繁中－維基百科</a> |
+<a href="https://gs.ctrip.com/html5/you/sight/bangkok191/7293.html">簡中－攜程攻略</a> |
+<a href="https://www.tripadvisor.com/Attraction_Review-g293916-d309782-Reviews-Wat_Pho-Bangkok.html">EN－TripAdvisor</a>]]></description>
+        <Point>
+          <coordinates>100.4925,13.7465,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICONSIAM</name>
+        <description><![CDATA[免費入場，10:00–22:00，河畔 10 層商場
+<br/><br/><b>介紹連結：</b>
+<br/><a href="https://zh.wikipedia.org/wiki/ICONSIAM">繁中－維基百科</a> |
+<a href="https://www.iconsiam.com/cn">簡中－官網</a> |
+<a href="https://www.iconsiam.com/en">EN－官網</a>]]></description>
+        <Point>
+          <coordinates>100.5120,13.7265,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>5_他人推薦（日按Soapy俱樂部）</name>
+      <Placemark>
+        <name>7SEVEN Spa And Massage</name>
+        <description><![CDATA[<b>分類</b>：成人按摩店｜Soi 10，近 Asok/Nana BTS
+<br/><b>評分</b>：4.6★ (77 則評價)
+<br/><b>價位</b>：約 3,000 銖／60 分鐘
+<br/><b>特色</b>：環境乾淨、技師年輕，營業 11:00–02:00
+<br/><b>口碑</b>：網評專業、清潔佳
+<br/><a href="https://www.google.com/maps/search/7SEVEN+Spa+And+Massage+Bangkok">查看圖片與詳細資訊</a>]]></description>
+        <Point><coordinates>100.558,13.732,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Dragon Heart Nuru Massage</name>
+        <description><![CDATA[<b>分類</b>：成人按摩店｜Soi 11，Eden 創辦人設計
+<br/><b>評分</b>：4.6★ (63 則評價)
+<br/><b>價位</b>：約 2,000 銖／30 分鐘起；Nuru 約 5,000 銖
+<br/><b>特色</b>：主題房（Galaxy、Maharaja、Party Room、中日式等）、Jacuzzi、Hostess Club 可先飲酒選妃
+<br/><b>口碑</b>：高檔、隱密，營業 11:00–03:00
+<br/><a href="https://www.google.com/maps/search/Dragon+Heart+Nuru+Massage+Bangkok">查看圖片與詳細資訊</a>]]></description>
+        <Point><coordinates>100.557,13.735,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Secret Kiss</name>
+        <description><![CDATA[<b>分類</b>：成人按摩店
+<br/><b>評分</b>：4.7★ (57 則評價)
+<br/><b>價位</b>：視方案而定
+<br/><b>特色</b>：Erotic massage、BJ bar，可 LINE 預約
+<br/><a href="https://www.google.com/maps/search/Secret+Kiss+Bangkok">查看圖片與詳細資訊</a>]]></description>
+        <Point><coordinates>100.570,13.727,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>EXOTIC Massage Bangkok</name>
+        <description><![CDATA[<b>分類</b>：成人按摩店
+<br/><b>評分</b>：4.8★ (202 則評價)
+<br/><b>特色</b>：網評高，環境簡約
+<br/><a href="https://www.google.com/maps/search/EXOTIC+Massage+Bangkok">查看圖片與詳細資訊</a>]]></description>
+        <Point><coordinates>100.562,13.731,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Dozo Massage</name>
+        <description><![CDATA[<b>分類</b>：成人按摩店
+<br/><b>評分</b>：4.3★ (158 則評價)
+<br/><a href="https://www.google.com/maps/search/Dozo+Massage+Bangkok">查看圖片與詳細資訊</a>]]></description>
+        <Point><coordinates>100.564,13.729,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>AuroraMassage33 Nuru</name>
+        <description><![CDATA[<b>分類</b>：成人按摩店｜Soi 33
+<br/><b>評分</b>：4.4★ (156 則評價)
+<br/><a href="https://www.google.com/maps/search/AuroraMassage33+Nuru+Bangkok">查看圖片與詳細資訊</a>]]></description>
+        <Point><coordinates>100.565,13.732,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Canary Massage</name>
+        <description><![CDATA[<b>分類</b>：Nuru／Soapy｜Soi 19，近 Asok
+<br/><b>評分</b>：4.7★ (220 則評價)｜曼谷 Nuru 排名前茅
+<br/><b>價位</b>：4,500 銖全包（含服裝、襪）
+<br/><b>特色</b>：日式 Nuru、情境房（教室、醫院、健身房），專業技師
+<br/><b>口碑</b>：服務佳、略貴但物有所值，營業 10:00–24:00
+<br/><a href="https://www.google.com/maps/search/Canary+Massage+Bangkok">查看圖片與詳細資訊</a>]]></description>
+        <Point><coordinates>100.565,13.730,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Glamor Massage Bangkok</name>
+        <description><![CDATA[<b>分類</b>：按摩水療｜Soi 31
+<br/><b>評分</b>：4.6★ (116 則評價)
+<br/><b>價位</b>：Standard 2,000 銖／40 分鐘；Gorgeous 2,500–4,500；Exclusive/Sky 3,500–5,500 銖
+<br/><b>特色</b>：摩洛哥風裝潢、Sky 房落地窗＋星空效果、海藻 Nuru 凝膠
+<br/><a href="https://www.google.com/maps/search/Glamor+Massage+Bangkok">查看圖片與詳細資訊</a>]]></description>
+        <Point><coordinates>100.575,13.728,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Hunny Bunny BKK</name>
+        <description><![CDATA[<b>分類</b>：香薰／Nuru｜Soi 33，近 Phrom Phong
+<br/><b>評分</b>：4.7★ (92 則評價)
+<br/><b>價位</b>：標準房 1,900–2,800 銖（40–120 分鐘）；Jacuzzi 2,000–3,300；主題房 3,500–5,500
+<br/><b>特色</b>：主題房（Ice、Amazon、Victorian、Karaoke、Genie、Angel）
+<br/><b>口碑</b>：房間乾淨、服務友善、預約順暢，營業 08:00–24:00
+<br/><a href="https://www.google.com/maps/search/Hunny+Bunny+BKK">查看圖片與詳細資訊</a>]]></description>
+        <Point><coordinates>100.565,13.732,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Toro Massage</name>
+        <description><![CDATA[<b>分類</b>：按摩水療
+<br/><b>評分</b>：4.6★ (29 則評價)
+<br/><b>特色</b>：裝潢現代簡潔
+<br/><a href="https://www.google.com/maps/search/Toro+Massage+Bangkok">查看圖片與詳細資訊</a>]]></description>
+        <Point><coordinates>100.560,13.734,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Aurora Bangkok</name>
+        <description><![CDATA[<b>分類</b>：按摩水療
+<br/><b>評分</b>：4.3★ (117 則評價)
+<br/><a href="https://www.google.com/maps/search/Aurora+Bangkok+Massage">查看圖片與詳細資訊</a>]]></description>
+        <Point><coordinates>100.563,13.730,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Kitty Spa RCA</name>
+        <description><![CDATA[<b>分類</b>：成人按摩店｜RCA 區
+<br/><b>評分</b>：3.8★ (53 則評價)
+<br/><b>特色</b>：芳香療法、Kasai 按摩，營業 11:00–03:30
+<br/><a href="https://www.google.com/maps/search/Kitty+Spa+RCA+Bangkok">查看圖片與詳細資訊</a>]]></description>
+        <Point><coordinates>100.601,13.778,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>PSYCHE DREAM SPA</name>
+        <description><![CDATA[<b>分類</b>：成人按摩店｜RCA，角色扮演 SPA
+<br/><b>評分</b>：4.8★ (77 則評價)
+<br/><b>特色</b>：泰國首創沉浸式角色扮演，6 種情境（護士、健身教練、教室、女宿舍、頭等艙、監獄），強調劇情互動與隱私
+<br/><b>口碑</b>：獨特體驗、多語系（英中日韓）
+<br/><a href="https://www.google.com/maps/search/PSYCHE+DREAM+SPA+Bangkok">查看圖片與詳細資訊</a>]]></description>
+        <Point><coordinates>100.601,13.778,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Bonnie RCA</name>
+        <description><![CDATA[<b>分類</b>：成人按摩店｜RCA 區
+<br/><b>評分</b>：4.3★ (15 則評價)
+<br/><a href="https://www.google.com/maps/search/Bonnie+RCA+Bangkok">查看圖片與詳細資訊</a>]]></description>
+        <Point><coordinates>100.601,13.778,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Magic Massage</name>
+        <description><![CDATA[<b>分類</b>：成人按摩店｜<b style="color:red">永久歇業</b>
+<br/><b>評分</b>：4.4★ (14 則評價)
+<br/><a href="https://www.google.com/maps/search/Magic+Massage+Bangkok">查看圖片與詳細資訊</a>]]></description>
+        <Point><coordinates>100.558,13.733,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Tara Bangkok</name>
+        <description><![CDATA[<b>分類</b>：อาบ อบ นวด（Soapy）｜Ratchada
+<br/><b>評分</b>：4.3★ (240 則評價)
+<br/><b>特色</b>：「曼谷最頂級 Soapy」、Lounge 選妃（無魚缸）、Jacuzzi／Sauna／蒸氣、餐廳、酒吧、現場樂隊，40–50 位技師
+<br/><b>口碑</b>：高檔紳士 SPA，複合娛樂
+<br/><a href="https://www.google.com/maps/search/Tara+Bangkok">查看圖片與詳細資訊</a>]]></description>
+        <Point><coordinates>100.571,13.773,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Black Caviar Executive Club</name>
+        <description><![CDATA[<b>分類</b>：อาบ อบ นวด｜Ratchada Din Daeng
+<br/><b>評分</b>：4.2★ (90 則評價)
+<br/><b>價位</b>：會員制 30,000／50,000／100,000 銖
+<br/><b>特色</b>：邀請制、VIP 主題房、Karaoke、現場樂隊、Lobby Bar、 fine dining（魚子醬、紅酒）
+<br/><b>口碑</b>：奢華、會員制，營業 12:00–24:00
+<br/><a href="https://www.google.com/maps/search/Black+Caviar+Executive+Club+Bangkok">查看圖片與詳細資訊</a>]]></description>
+        <Point><coordinates>100.572,13.774,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Maria Massage Bangkok</name>
+        <description><![CDATA[<b>分類</b>：成人俱樂部
+<br/><b>評分</b>：3.7★ (150 則評價)
+<br/><b>特色</b>：綠色霓虹外觀、夜間街道景
+<br/><a href="https://www.google.com/maps/search/Maria+Massage+Bangkok">查看圖片與詳細資訊</a>]]></description>
+        <Point><coordinates>100.555,13.739,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>The Dollhouse</name>
+        <description><![CDATA[<b>分類</b>：成人俱樂部｜消費等級 $$
+<br/><b>評分</b>：4.3★ (143 則評價)
+<br/><b>特色</b>：紅綠霓虹、室內酒吧氛圍
+<br/><a href="https://www.google.com/maps/search/The+Dollhouse+Bangkok">查看圖片與詳細資訊</a>]]></description>
+        <Point><coordinates>100.561,13.732,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

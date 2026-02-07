@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>店家列表 - 曼谷特殊小店資料庫</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="header">
+    <h1 class="header-title"><a href="index.html" class="header-title-link">曼谷特殊小店資料庫</a></h1>
+    <nav class="nav">
+      <a href="index.html" class="nav-link">首頁</a>
+      <a href="list.html" class="nav-link is-active" aria-current="page">列表</a>
+    </nav>
+  </header>
+
+  <main class="main">
+    <section class="toolbar">
+      <form action="list.html" method="get" class="search-form search-form-inline" id="search-form">
+        <input type="hidden" name="type" id="param-type" value="" />
+        <input type="hidden" name="tag" id="param-tag" value="" />
+        <label for="list-search" class="visually-hidden">搜尋</label>
+        <input type="search" id="list-search" name="q" class="search-input" placeholder="搜尋…" autocomplete="off" />
+        <button type="submit" class="search-btn">搜尋</button>
+      </form>
+      <div class="sort-wrap">
+        <label for="sort-select" class="visually-hidden">排序</label>
+        <select id="sort-select" class="sort-select" aria-label="排序方式">
+          <option value="name">依名稱</option>
+          <option value="distance">依距離</option>
+          <option value="rating">依分數</option>
+        </select>
+      </div>
+    </section>
+
+    <div id="filter-tags" class="filter-tags" aria-label="目前篩選"></div>
+
+    <section class="card-list" id="card-list" aria-label="店家列表">
+      <p class="loading">載入中…</p>
+    </section>
+
+    <p class="back-link-wrap">
+      <a href="index.html" class="back-link">← 回首頁</a>
+    </p>
+  </main>
+
+  <script src="js/app.js"></script>
+  <script src="js/list.js"></script>
+</body>
+</html>

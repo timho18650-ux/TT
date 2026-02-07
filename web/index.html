@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>曼谷特殊小店資料庫</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="header">
+    <h1 class="header-title">曼谷特殊小店資料庫</h1>
+    <nav class="nav">
+      <a href="index.html" class="nav-link is-active" aria-current="page">首頁</a>
+      <a href="list.html" class="nav-link">列表</a>
+    </nav>
+  </header>
+
+  <main class="main">
+    <section class="search-section">
+      <form action="list.html" method="get" class="search-form" role="search">
+        <label for="search-input" class="visually-hidden">搜尋店名、特色或 TAG</label>
+        <input type="search" id="search-input" name="q" class="search-input" placeholder="搜尋店名、特色或 TAG…" autocomplete="off" />
+        <button type="submit" class="search-btn">搜尋</button>
+      </form>
+    </section>
+
+    <section class="section">
+      <h2 class="section-title">依分類瀏覽</h2>
+      <div id="category-list" class="category-list" aria-label="分店類型">
+        <span class="loading">載入中…</span>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2 class="section-title">依 TAG 篩選</h2>
+      <div id="tag-cloud" class="tag-cloud" aria-label="常用標籤">
+        <span class="loading">載入中…</span>
+      </div>
+    </section>
+
+    <p class="list-link-wrap">
+      <a href="list.html" class="btn btn-primary">查看全部店家</a>
+    </p>
+  </main>
+
+  <script src="js/app.js"></script>
+  <script>
+    (function () {
+      var categoryEl = document.getElementById("category-list");
+      var tagEl = document.getElementById("tag-cloud");
+
+      window.App.loadPlaces().then(function (places) {
+        var types = window.App.getTypes(places);
+        categoryEl.innerHTML = types.map(function (t) {
+          var href = "list.html" + (t === "全部" ? "" : "?type=" + encodeURIComponent(t));
+          return '<a href="' + href + '" class="category-btn">' + escapeHtml(t) + '</a>';
+        }).join("");
+
+        var tags = window.App.getAllTags(places).slice(0, 24);
+        tagEl.innerHTML = tags.map(function (tag) {
+          return '<a href="list.html?tag=' + encodeURIComponent(tag) + '" class="tag">' + escapeHtml(tag) + '</a>';
+        }).join("");
+      }).catch(function () {
+        categoryEl.innerHTML = '<span class="error">無法載入資料</span>';
+        tagEl.innerHTML = "";
+      });
+
+      function escapeHtml(s) {
+        var div = document.createElement("div");
+        div.textContent = s;
+        return div.innerHTML;
+      }
+    })();
+  </script>
+</body>
+</html>
