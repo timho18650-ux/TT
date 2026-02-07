@@ -1,0 +1,25 @@
+---
+description: 新增或修改功能後，記得將變更同步到 GitHub（timho18650-ux/TT）
+alwaysApply: true
+---
+
+# 完成變更後同步到 GitHub
+
+本專案遠端為 **https://github.com/timho18650-ux/TT**。
+
+當你完成以下任一情況時，**必須**執行同步到 GitHub：
+
+- 新增功能
+- 修復問題（bug fix）
+- 調整設定或文件（如 README、Vercel、規則）
+
+## 指定步驟（請依序執行）
+
+1. **檢查變更**：`git status`
+2. **加入檔案**：`git add .` 或指定檔案（如 `git add web/js/detail.js`）
+3. **提交**：`git commit -m "簡短說明"`（說明用英文或繁中皆可，需清楚描述變更）
+4. **推送**：`git push`
+
+完成上述步驟後，告知使用者「已同步到 GitHub」。
+
+若使用者僅要求「更新到 Git」或「推送到 GitHub」，也依相同步驟執行並回報結果。
