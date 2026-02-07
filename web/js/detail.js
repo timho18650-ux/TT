@@ -32,8 +32,14 @@
     return out;
   }
 
+  function getMapSearchUrl(name) {
+    if (!name || !name.trim()) return "";
+    return "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(name.trim() + " Bangkok");
+  }
+
   function render(p) {
     var links = parseLinks(p.links);
+    var mapUrl = getMapSearchUrl(p.name);
     var html =
       '<header class="detail-header">' +
         '<h2 class="detail-title">' + escapeHtml(p.name) + '</h2>' +
@@ -67,11 +73,9 @@
     }
 
     html += '<section class="detail-actions">';
-    if (p.addressUrl) {
-      html += '<a href="' + escapeHtml(p.addressUrl) + '" target="_blank" rel="noopener" class="btn btn-cta">開啟地圖</a> ';
-    }
-    if (p.photo1Url) {
-      html += '<a href="' + escapeHtml(p.photo1Url) + '" target="_blank" rel="noopener" class="btn btn-cta">相片1</a> ';
+    if (mapUrl) {
+      html += '<a href="' + escapeHtml(mapUrl) + '" target="_blank" rel="noopener" class="btn btn-cta">開啟地圖</a> ';
+      html += '<a href="' + escapeHtml(mapUrl) + '" target="_blank" rel="noopener" class="btn btn-cta">相片1</a> ';
     }
     if (p.photo2Url) {
       html += '<a href="' + escapeHtml(p.photo2Url) + '" target="_blank" rel="noopener" class="btn btn-cta">相片2</a>';
