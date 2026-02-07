@@ -25,6 +25,16 @@
     return m ? parseFloat(m[1], 10) : 0;
   }
 
+  /** 從 priceHkd 字串解析平均價錢（港幣），無則回傳 Infinity 排到最後 */
+  function parsePriceHkd(s) {
+    if (!s || !s.trim()) return Infinity;
+    var nums = s.replace(/,/g, "").match(/[\d.]+/g);
+    if (!nums || nums.length === 0) return Infinity;
+    var sum = 0;
+    for (var i = 0; i < nums.length; i++) sum += parseFloat(nums[i], 10);
+    return sum / nums.length;
+  }
+
   function sortPlaces(places, order) {
     var list = places.slice();
     if (order === "distance") {
@@ -34,6 +44,10 @@
     } else if (order === "rating") {
       list.sort(function (a, b) {
         return parseRating(b.rating) - parseRating(a.rating);
+      });
+    } else if (order === "price") {
+      list.sort(function (a, b) {
+        return parsePriceHkd(a.priceHkd) - parsePriceHkd(b.priceHkd);
       });
     } else {
       list.sort(function (a, b) {
