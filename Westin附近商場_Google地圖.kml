@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Westin Grande Sukhumvit 附近商場（可匯入 Google My Maps）</name>
+    <description>The Westin Grande Sukhumvit 步行或 BTS 可達之購物商場，含 YouTube 介紹連結。</description>
+    <Folder>
+      <name>參考：住宿酒店</name>
+      <Placemark>
+        <name>The Westin Grande Sukhumvit</name>
+        <description><![CDATA[本次住宿酒店，座標為參考點。]]></description>
+        <Point><coordinates>100.5601,13.7388,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>附近商場（可購物）</name>
+      <Placemark>
+        <name>Terminal 21 Asok</name>
+        <description><![CDATA[約 7 分鐘步行。BTS Asok／MRT Sukhumvit 直達。航站主題、每層不同城市，600+ 店鋪、Pier 21 美食廣場，平價好逛。
+<br/><br/><b>YouTube 介紹：</b>
+<br/><a href="https://www.youtube.com/watch?v=ZCI9JdmbBx8">Walking Terminal 21 Asok | Bangkok's Airport-Themed Mall</a>
+<br/><a href="https://www.youtube.com/watch?v=VmnbV_PJvMg">[4K] Walk inside Terminal 21 Asok</a>]]></description>
+        <Point><coordinates>100.5598,13.7382,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>EmQuartier</name>
+        <description><![CDATA[BTS Phrom Phong 天橋直達。EM District 一員，40m 室內瀑布、Helix 餐飲、Sky Cliff 觀景、FoodHall。
+<br/><br/><b>YouTube 介紹：</b>
+<br/><a href="https://www.youtube.com/watch?v=bpSCt6GAGCA">EmQuartier Beautiful Shopping Mall | 4K HDR Walking Tour</a>
+<br/><a href="https://www.youtube.com/watch?v=-n8cqwbjFUo">Emporium &amp; EmQuartier 2025 Full Tour</a>]]></description>
+        <Point><coordinates>100.5692,13.7315,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Emporium</name>
+        <description><![CDATA[BTS Phrom Phong 天橋直達。曼谷早期精品商場，與 EmQuartier、EmSphere 組成 EM District，國際精品與高檔超市。
+<br/><br/><b>YouTube 介紹：</b>
+<br/><a href="https://www.youtube.com/watch?v=F_f7o11Bn4Q">Emporium - Phrom Phong BTS - EM District</a>
+<br/><a href="https://www.youtube.com/watch?v=-n8cqwbjFUo">Emporium &amp; EmQuartier 2025 Full Tour</a>]]></description>
+        <Point><coordinates>100.5689,13.7307,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>EmSphere</name>
+        <description><![CDATA[2023 年 12 月開幕。BTS Phrom Phong，鄰 Benchasiri Park。泰國首間市中心 IKEA、EM Live 競技場、Gordon Ramsay、Apple、Tesla。
+<br/><br/><b>YouTube 介紹：</b>
+<br/><a href="https://www.youtube.com/watch?v=CEAV9hjaE1U">EmSphere Shopping Mall GRAND OPENING in Bangkok!</a>
+<br/><a href="https://www.youtube.com/watch?v=Xh5KTm-VuLc">Inside Bangkok's Newest Luxury Mall, Emsphere</a>]]></description>
+        <Point><coordinates>100.5695,13.7312,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
