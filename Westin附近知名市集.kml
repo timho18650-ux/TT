@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Westin Grande Sukhumvit 附近知名市集（含恰圖恰）</name>
+    <description>曼谷知名市集，含恰圖恰週末市集、奧托柯、阿索克等。BTS／MRT 可達。附 YouTube 介紹連結（中文優先，無則附英文並提供繁中搜尋關鍵字）。</description>
+    <Folder>
+      <name>參考：住宿酒店</name>
+      <Placemark>
+        <name>The Westin Grande Sukhumvit</name>
+        <description><![CDATA[本次住宿酒店，座標為參考點。]]></description>
+        <Point><coordinates>100.5601,13.7388,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>知名市集</name>
+      <Placemark>
+        <name>恰圖恰週末市集 Chatuchak Weekend Market</name>
+        <description><![CDATA[<b>距離 Westin</b>：BTS Mo Chit／MRT Chatuchak Park 或 Kamphaeng Phet 步行約 5 分鐘（約 25 分鐘車程）
+<br/><b>營業</b>：週六日 09:00–18:00（主區）；週三四僅植物市集；週五傍晚批發；週一二公休
+<br/><b>特色</b>：世界最大週末市集之一，27 區、15,000+ 攤位。服飾、手工藝、古董、家居、植物、寵物、美食。建議帶現金、水，避開正午高溫，可議價
+<br/><br/><b>YouTube 介紹（中文優先）</b>
+<br/>繁中可搜：「恰圖恰 曼谷 攻略」「Chatuchak 週末市集 中文」
+<br/>・<a href="https://www.youtube.com/watch?v=1riNHBUYANU">Chatuchak Market - Bangkok's Gigantic Weekend Market</a>（EN）
+<br/>・<a href="https://www.youtube.com/watch?v=5PpNXSSy9pU">Ultimate Guide to Chatuchak Weekend Market Shopping</a>（EN）]]></description>
+        <Point><coordinates>100.5508,13.8005,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Or Tor Kor Market 奧托柯市場（อ.ต.ก.）</name>
+        <description><![CDATA[<b>距離 Westin</b>：MRT Kamphaeng Phet 站（恰圖恰對面出口），與恰圖恰同區可一併安排
+<br/><b>營業</b>：約 06:00–18:00
+<br/><b>特色</b>：CNN 世界十大生鮮市集。高品質水果（芒果、榴槤等）、熟食、美食區，環境乾淨，價位較一般市集高
+<br/><br/><b>YouTube 介紹（中文優先）</b>
+<br/>・<a href="https://www.youtube.com/watch?v=h5jHVy4b2OE">[Poor travel泰國] 曼谷傳統農夫市集掃街！Or Tor Kor Market Bangkok</a>（粵語／繁中）
+<br/>繁中可搜：「Or Tor Kor 奧托柯 曼谷」「อ.ต.ก. 曼谷 中文」
+<br/>・<a href="https://www.youtube.com/watch?v=o8ZVyPTYVEI">Or Tor Kor Market - Bangkok's Upscale Food Center</a>（EN）
+<br/>・<a href="https://www.youtube.com/watch?v=2YERllStS7s">[4K] Premium Fruit Market - OR TOR KOR</a>（EN）]]></description>
+        <Point><coordinates>100.5500,13.7970,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Asok Market 阿索克市場</name>
+        <description><![CDATA[<b>距離 Westin</b>：步行約 5–8 分鐘。BTS Asok、Sukhumvit Soi 23 巷內
+<br/><b>特色</b>：在地濕市集（Talad Sod），蔬果、肉類、海鮮、食材；本地價格、觀光客少
+<br/><br/><b>YouTube 介紹（中文優先）</b>
+<br/>繁中可搜：「Asok Market 阿索克市場 曼谷」「Soi 23 市集 曼谷」
+<br/>（尚無專屬繁中影片，可依關鍵字搜尋）]]></description>
+        <Point><coordinates>100.5595,13.7362,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
