@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Westin Grande Sukhumvit 附近有名排隊美食</name>
+    <description>曼谷有名排隊／人氣美食，含米其林推薦。部分步行或 BTS 可達，部分需 MRT／計程車。附 YouTube 介紹連結。</description>
+    <Folder>
+      <name>參考：住宿酒店</name>
+      <Placemark>
+        <name>The Westin Grande Sukhumvit</name>
+        <description><![CDATA[本次住宿酒店，座標為參考點。]]></description>
+        <Point><coordinates>100.5601,13.7388,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>排隊美食</name>
+      <Placemark>
+        <name>Rung Rueang 榮榮豬肉丸粉（รุ่งเรือง）</name>
+        <description><![CDATA[<b>距離 Westin</b>：BTS 1 站 Phrom Phong，步行約 5 分鐘（Soi 26）
+<br/><b>營業</b>：08:00–17:00，只收現金
+<br/><b>特色</b>：1965 年開業，米其林 Bib Gourmand。冬蔭豬肉丸粉、清湯／乾拌，自選麵體與配料，約 50–70 銖
+<br/><br/><b>YouTube 介紹：</b>
+<br/><a href="https://www.youtube.com/watch?v=wRsVsYfezps">Rung Rueang Pork Noodle - Michelin Bib Gourmand Bangkok</a>]]></description>
+        <Point><coordinates>100.570424,13.72834,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Jay Fai 痣姐（ร้านเจ๊ไฝ）</name>
+        <description><![CDATA[<b>距離 Westin</b>：MRT Sam Yod 站步行約 700m（舊城區 Maha Chai Rd）
+<br/><b>營業</b>：週三–六 09:00–19:30，需預約或一早排隊（常等 3 小時+）
+<br/><b>特色</b>：泰國首間米其林一星街邊店，蟹肉蛋捲、醉貓炒河粉等；痣姐本人戴護目鏡炭火快炒，現金
+<br/><br/><b>YouTube 介紹：</b>
+<br/><a href="https://www.youtube.com/watch?v=vv8LUSqT3JQ">GIANT CRAB OMELET at Jay Fai - Michelin Star Bangkok</a>
+<br/><a href="https://www.youtube.com/watch?v=kNyJTYnTxTw">Jay Fai - Thailand's Michelin-Starred Street Food</a>]]></description>
+        <Point><coordinates>100.5012,13.7483,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Thip Samai 鬼門炒河粉（ผัดไทยประตูผี）</name>
+        <description><![CDATA[<b>距離 Westin</b>：MRT／計程車至 Maha Chai Rd（近大皇宮／金山寺一帶）
+<br/><b>營業</b>：10:00–24:00（依分店）
+<br/><b>特色</b>：1939 年創始，曼谷最有名 Pad Thai 之一；蛋皮包炒河粉、橙汁，長期排隊
+<br/><br/><b>YouTube 介紹：</b>
+<br/><a href="https://www.youtube.com/watch?v=VkC95ijnHj0">THIP SAMAI PAD THAI - THE HOME OF PAD THAI IN BANGKOK</a>
+<br/><a href="https://www.youtube.com/watch?v=_6dDw6Oy4hY">Pad Thai Thip Samai Bangkok</a>]]></description>
+        <Point><coordinates>100.50481,13.7528,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Jeh O Chula（เจ๊โอ ชูลา）</name>
+        <description><![CDATA[<b>距離 Westin</b>：計程車／Grab 至 Pathum Wan，Soi Charat Mueang（近朱拉隆功一帶）
+<br/><b>營業</b>：16:00–24:00
+<br/><b>特色</b>：米其林 Bib Gourmand，Mama 冬蔭麵、脆皮豬肉等；排隊可達數小時，可考慮 Klook 預約
+<br/><br/><b>YouTube 介紹：</b>可搜尋 "Jeh O Chula Bangkok"]]></description>
+        <Point><coordinates>100.531,13.738,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Lukkaithong 盧凱通（ลูกไข่ทอง）</name>
+        <description><![CDATA[<b>距離 Westin</b>：BTS Phrom Phong 步行約 290m
+<br/><b>特色</b>：米其林 Plate，家常中泰菜，招牌燉豬腳等；人氣高，建議避開尖峰或先訂位]]></description>
+        <Point><coordinates>100.569,13.729,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
