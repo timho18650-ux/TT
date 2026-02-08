@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Westin Grande Sukhumvit 附近知名市集（含恰圖恰）</name>
-    <description>曼谷知名市集，含恰圖恰週末市集、奧托柯、阿索克等。BTS／MRT 可達。附 YouTube 介紹連結（中文優先，無則附英文並提供繁中搜尋關鍵字）。</description>
+    <description>曼谷知名市集與十大夜市，含恰圖恰、奧托柯、阿索克、河濱夜市、喬德、拉差達、考山路、唐人街、匯狂、席娜卡琳等。BTS／MRT／船可達。附 YouTube 介紹連結（中文優先，無則附英文並提供繁中搜尋關鍵字）。</description>
     <Folder>
       <name>參考：住宿酒店</name>
       <Placemark>
@@ -44,6 +44,113 @@
 <br/>繁中可搜：「Asok Market 阿索克市場 曼谷」「Soi 23 市集 曼谷」
 <br/>（尚無專屬繁中影片，可依關鍵字搜尋）]]></description>
         <Point><coordinates>100.5595,13.7362,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>十大夜市</name>
+      <Placemark>
+        <name>Asiatique 河濱碼頭夜市</name>
+        <description><![CDATA[<b>距離 Westin</b>：BTS Saphan Taksin 轉免費接駁船（約 15–20 分）；或計程車／Grab
+<br/><b>營業</b>：每日約 16:00–24:00（接駁船 17:00–23:00）
+<br/><b>特色</b>：昭披耶河畔、1500+ 店鋪、摩天輪、人妖秀／泰拳秀；室內外混合，較乾淨
+<br/><br/><b>YouTube 介紹（中文優先）</b>
+<br/>繁中可搜：「Asiatique 河濱夜市 曼谷」「河濱碼頭夜市 中文」
+<br/>・<a href="https://www.youtube.com/watch?v=8qWzzqxDlWc">【4K】Walking in ASIATIQUE The Riverfront Bangkok</a>（EN）
+<br/>・<a href="https://www.youtube.com/watch?v=tzVA1gzUNOI">How to go to Asiatique by Free Ferry Boat</a>（EN）]]></description>
+        <Point><coordinates>100.513,13.719,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>JODD FAIRS Ratchada 喬德拉差達夜市</name>
+        <description><![CDATA[<b>距離 Westin</b>：MRT 泰國文化中心站 Thailand Cultural Centre 4 號出口步行約 3–5 分鐘
+<br/><b>營業</b>：每日約 17:00–01:00
+<br/><b>特色</b>：2024 年底遷至拉差達、1500+ 攤位；火山排骨、水果西施、跳跳蝦；網美風格
+<br/><br/><b>YouTube 介紹（中文優先）</b>
+<br/>繁中可搜：「JODD FAIRS 喬德夜市 曼谷」「喬德拉差達 火山排骨 中文」
+<br/>・<a href="https://www.youtube.com/watch?v=Rla4ng3cBlQ">Exploring Bangkok Night Market - Jodd Fairs area</a>（EN）
+<br/>・<a href="https://www.youtube.com/watch?v=8qWzzqxDlWc">Bangkok Night Market 4K</a>（EN）]]></description>
+        <Point><coordinates>100.577,13.747,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>The One Ratchada 拉差達火車夜市（那個拉差達）</name>
+        <description><![CDATA[<b>距離 Westin</b>：MRT 泰國文化中心站 3 號出口，經 Esplanade 步行約 5 分鐘
+<br/><b>營業</b>：每日約 17:00–24:00
+<br/><b>特色</b>：原拉差達火車夜市重生，白色文青帳篷；美食、服飾、酒吧區
+<br/><br/><b>YouTube 介紹（中文優先）</b>
+<br/>繁中可搜：「The One Ratchada 拉差達 曼谷」「拉差達火車夜市 中文」
+<br/>・<a href="https://www.youtube.com/watch?v=5PpNXSSy9pU">Bangkok Night Market Shopping Guide</a>（EN）]]></description>
+        <Point><coordinates>100.569,13.754,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Patpong 帕蓬夜市</name>
+        <description><![CDATA[<b>距離 Westin</b>：BTS Sala Daeng／MRT Silom 步行可達
+<br/><b>營業</b>：每日約 18:00–01:00
+<br/><b>特色</b>：Silom 商圈、觀光夜市與酒吧街並存；仿品、紀念品、路邊小吃
+<br/><br/><b>YouTube 介紹（中文優先）</b>
+<br/>繁中可搜：「Patpong 帕蓬 曼谷」「帕蓬夜市 中文」
+<br/>・<a href="https://www.youtube.com/watch?v=KVN4ZqEM-qU">Patpong Night Market Bangkok</a>（EN）]]></description>
+        <Point><coordinates>100.535,13.728,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Khao San Road 考山路夜市</name>
+        <description><![CDATA[<b>距離 Westin</b>：計程車／Grab 或 BTS Ratchathewi 轉乘；橘船 N13 碼頭
+<br/><b>營業</b>：約 15:00–02:00（傍晚至午夜最熱鬧）
+<br/><b>特色</b>：背包客天堂、街頭美食、酒吧、按摩、手工藝與紀念品
+<br/><br/><b>YouTube 介紹（中文優先）</b>
+<br/>繁中可搜：「考山路 曼谷 攻略」「Khao San 中文」
+<br/>・<a href="https://www.youtube.com/watch?v=dwCh6a5T-2A">Khao San Road Bangkok Night</a>（EN）]]></description>
+        <Point><coordinates>100.500,13.759,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Yaowarat 唐人街／耀華力路夜市</name>
+        <description><![CDATA[<b>距離 Westin</b>：MRT Wat Mangkon 或 Hua Lamphong；計程車／Grab
+<br/><b>營業</b>：傍晚至深夜（部分 24 小時）
+<br/><b>特色</b>：霓虹燈街景、粵式泰式小吃、魚翅燕窩、燒烤海鮮、芒果糯米飯
+<br/><br/><b>YouTube 介紹（中文優先）</b>
+<br/>繁中可搜：「曼谷 唐人街 夜市」「耀華力 美食 中文」
+<br/>・<a href="https://www.youtube.com/watch?v=KVN4ZqEM-qU">BANGKOK CHINATOWN Night Walking Tour Yaowarat</a>（EN）
+<br/>・<a href="https://www.youtube.com/watch?v=11WWgqp3EtQ">Chinatown Bangkok Night Market Street Food</a>（EN）]]></description>
+        <Point><coordinates>100.510,13.740,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Huai Khwang 匯狂夜市</name>
+        <description><![CDATA[<b>距離 Westin</b>：MRT Huai Khwang 惠恭王站步行可達
+<br/><b>營業</b>：每日約 20:00–05:00（深夜型）
+<br/><b>特色</b>：在地社區型夜市、消費便宜、道地泰式宵夜
+<br/><br/><b>YouTube 介紹（中文優先）</b>
+<br/>繁中可搜：「匯狂夜市 曼谷」「Huai Khwang 中文」
+<br/>・<a href="https://www.youtube.com/watch?v=8xMhc18k06s">Huai Khwang Night Market Bangkok 4K</a>（EN）
+<br/>・<a href="https://www.youtube.com/watch?v=rqirnuSllcU">Bangkok Huai Khwang CHEAP Streetfood</a>（EN）]]></description>
+        <Point><coordinates>100.577,13.778,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Srinakarin 席娜卡琳火車鐵道夜市</name>
+        <description><![CDATA[<b>距離 Westin</b>：MRT 黃線 Suan Luang Rama IX 站步行約 10 分鐘；或計程車
+<br/><b>營業</b>：週四–日 17:00–01:00（週一–三公休）
+<br/><b>特色</b>：在地懷舊、2000+ 攤位、美食／二手／文創；價格較觀光夜市便宜
+<br/><br/><b>YouTube 介紹（中文優先）</b>
+<br/>繁中可搜：「席娜卡琳 火車夜市 曼谷」「Srinakarin 中文」
+<br/>・<a href="https://www.youtube.com/watch?v=5PpNXSSy9pU">Srinakarin Train Night Market Bangkok</a>（EN）]]></description>
+        <Point><coordinates>100.651,13.724,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Train Night Market DanNeramit 神奇之地火車夜市</name>
+        <description><![CDATA[<b>距離 Westin</b>：恰圖恰一帶，BTS Mo Chit／MRT 轉乘或計程車
+<br/><b>營業</b>：週四–日 16:00–24:00
+<br/><b>特色</b>：舊飛機與火車造景、露天美食與酒吧、文青市集感
+<br/><br/><b>YouTube 介紹（中文優先）</b>
+<br/>繁中可搜：「DanNeramit 火車夜市 曼谷」「神奇之地 夜市 中文」
+<br/>・<a href="https://www.youtube.com/watch?v=1riNHBUYANU">Train Night Market Bangkok</a>（EN）]]></description>
+        <Point><coordinates>100.551,13.809,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Siam Gypsy Junction 暹羅吉普賽夜市</name>
+        <description><![CDATA[<b>距離 Westin</b>：MRT 紫線 Bang Son 班森站
+<br/><b>營業</b>：週三–日 17:00–01:00
+<br/><b>特色</b>：二手舊貨、露天酒吧、街頭美食；較在地、遊客少
+<br/><br/><b>YouTube 介紹（中文優先）</b>
+<br/>繁中可搜：「Siam Gypsy 曼谷 夜市」「暹羅吉普賽 中文」
+<br/>（尚無專屬繁中影片，可依關鍵字搜尋）]]></description>
+        <Point><coordinates>100.537,13.909,0</coordinates></Point>
       </Placemark>
     </Folder>
   </Document>
