@@ -1,8 +1,10 @@
-# The Westin Grande Sukhumvit 附近可購物商場整理
+# The Westin Grande Sukhumvit 附近可購物商場與市集整理
 
 參考酒店座標：13.7388, 100.5601（Sukhumvit 區）
 
 ---
+
+# 一、商場
 
 ## 1. Terminal 21 Asok
 
@@ -60,7 +62,52 @@
 
 ---
 
+# 二、市集（含恰圖恰）
+
+## 5. 恰圖恰週末市集 Chatuchak Weekend Market（JJ Market）
+
+| 項目 | 內容 |
+|------|------|
+| **距離** | 從 Westin 搭 BTS（Asok → Mo Chit）約 25 分鐘；Mo Chit 站步行約 5 分鐘 |
+| **交通** | BTS Mo Chit 站 1 號出口／MRT Chatuchak Park 站或 Kamphaeng Phet 站，步行約 5 分鐘 |
+| **地址** | Kamphaeng Phet 2 Rd., Chatuchak（約 35 英畝，27 區、15,000+ 攤位） |
+| **營業時間** | 週六日 09:00–18:00（主力）／週五 18:00–24:00 批發／週三四 07:00–18:00 僅植物區／週一二 休 |
+| **特色** | 世界最大週末市集之一；服飾、手工藝、古董、家居、植物、寵物、美食；可議價、建議帶現金與水、避開正午高溫 |
+| **介紹影片** | [Chatuchak Market - Bangkok's Gigantic Weekend Market](https://www.youtube.com/watch?v=1riNHBUYANU) |
+| **另薦** | [Ultimate Guide to Chatuchak Weekend Market Shopping](https://www.youtube.com/watch?v=5PpNXSSy9pU) |
+
+---
+
+## 6. Or Tor Kor Market（奧托柯市場／อ.ต.ก.）
+
+| 項目 | 內容 |
+|------|------|
+| **距離** | 與恰圖恰同區，MRT Kamphaeng Phet 站（Chatuchak 對面出口） |
+| **交通** | MRT Kamphaeng Phet 站，出口往「農民市場」方向 |
+| **地址** | Kamphaeng Phet Rd.（毗鄰 Chatuchak Park） |
+| **營業時間** | 約 06:00–20:00（依攤位而異） |
+| **特色** | CNN 評選世界十大生鮮市集；高品質水果（芒果、榴槤等）、熟食、美食區、環境乾淨，價位較一般市集高 |
+| **介紹影片** | [Or Tor Kor Market - Bangkok's Upscale Food Center](https://www.youtube.com/watch?v=o8ZVyPTYVEI) |
+| **另薦** | [4K Premium Fruit Market - OR TOR KOR Market](https://www.youtube.com/watch?v=2YERllStS7s) |
+
+---
+
+## 7. Asok Market（阿索克市場）
+
+| 項目 | 內容 |
+|------|------|
+| **距離** | 步行約 5–8 分鐘（Westin 附近） |
+| **交通** | BTS Asok 站，Sukhumvit Soi 23 內 |
+| **地址** | Sukhumvit Soi 23 巷內（入口為水果攤，巷弄進入） |
+| **營業時間** | 傳統早市，約清晨至中午 |
+| **特色** | 在地濕市集（Talad Sod），蔬果、肉類、海鮮、食材；本地價格、觀光客少 |
+| **介紹** | 規模較小、無冷氣，適合想體驗當地買菜氛圍者 |
+
+---
+
 ## 簡要對照
+
+### 商場
 
 | 商場 | 與 Westin 相對 | 風格 | BTS |
 |------|----------------|------|-----|
@@ -68,5 +115,13 @@
 | EmQuartier | 約 10 分鐘／1 站 | 中高檔、瀑布與餐飲 | Phrom Phong |
 | Emporium | 約 1 站 | 精品、高檔 | Phrom Phong |
 | EmSphere | 約 12 分鐘／1 站 | 新開、IKEA／演唱會／餐飲 | Phrom Phong |
+
+### 市集
+
+| 市集 | 與 Westin 相對 | 特色 | 交通 |
+|------|----------------|------|------|
+| 恰圖恰 Chatuchak | BTS 約 25 分鐘 | 世界級週末市集、必逛 | BTS Mo Chit／MRT Chatuchak Park 或 Kamphaeng Phet |
+| Or Tor Kor | 與恰圖恰同區 | 高檔生鮮、水果、熟食 | MRT Kamphaeng Phet |
+| Asok Market | 步行約 5–8 分鐘 | 在地濕市集、買菜 | BTS Asok、Soi 23 |
 
 *以上距離與時間為約略參考，實際以 Google 地圖與現場為準。*

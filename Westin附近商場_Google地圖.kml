@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Westin Grande Sukhumvit 附近商場（可匯入 Google My Maps）</name>
-    <description>The Westin Grande Sukhumvit 步行或 BTS 可達之購物商場，含 YouTube 介紹連結。</description>
+    <name>Westin Grande Sukhumvit 附近商場與市集（可匯入 Google My Maps）</name>
+    <description>The Westin Grande Sukhumvit 步行或 BTS／MRT 可達之購物商場與市集（含恰圖恰），含 YouTube 介紹連結。</description>
     <Folder>
       <name>參考：住宿酒店</name>
       <Placemark>
@@ -44,6 +44,30 @@
 <br/><a href="https://www.youtube.com/watch?v=CEAV9hjaE1U">EmSphere Shopping Mall GRAND OPENING in Bangkok!</a>
 <br/><a href="https://www.youtube.com/watch?v=Xh5KTm-VuLc">Inside Bangkok's Newest Luxury Mall, Emsphere</a>]]></description>
         <Point><coordinates>100.5695,13.7312,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>市集（含恰圖恰）</name>
+      <Placemark>
+        <name>恰圖恰週末市集 Chatuchak Weekend Market</name>
+        <description><![CDATA[世界最大週末市集之一，27 區、15,000+ 攤位。BTS Mo Chit／MRT Chatuchak Park 或 Kamphaeng Phet 步行約 5 分鐘。週六日 09:00–18:00。
+<br/><br/><b>YouTube 介紹：</b>
+<br/><a href="https://www.youtube.com/watch?v=1riNHBUYANU">Chatuchak Market - Bangkok's Gigantic Weekend Market</a>
+<br/><a href="https://www.youtube.com/watch?v=5PpNXSSy9pU">Ultimate Guide to Chatuchak Weekend Market Shopping</a>]]></description>
+        <Point><coordinates>100.5508,13.8005,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Or Tor Kor Market 奧托柯市場</name>
+        <description><![CDATA[CNN 世界十大生鮮市集。MRT Kamphaeng Phet 站（恰圖恰對面）。高品質水果、熟食、美食區，環境乾淨。
+<br/><br/><b>YouTube 介紹：</b>
+<br/><a href="https://www.youtube.com/watch?v=o8ZVyPTYVEI">Or Tor Kor Market - Bangkok's Upscale Food Center</a>
+<br/><a href="https://www.youtube.com/watch?v=2YERllStS7s">[4K] Premium Fruit Market - OR TOR KOR</a>]]></description>
+        <Point><coordinates>100.5500,13.7970,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Asok Market 阿索克市場</name>
+        <description><![CDATA[Westin 步行約 5–8 分鐘。BTS Asok、Sukhumvit Soi 23 巷內。在地濕市集，蔬果肉類海鮮，本地價格。]]></description>
+        <Point><coordinates>100.5595,13.7362,0</coordinates></Point>
       </Placemark>
     </Folder>
   </Document>
